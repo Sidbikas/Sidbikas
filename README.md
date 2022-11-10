@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bikas Parida
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning.....
+- 👀 I’m interested in learning Programming.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail me at sidbikas36@gmail.com
 
